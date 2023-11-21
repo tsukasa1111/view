@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (PackingCheckGA2 (1).vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  main.cpp
+C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\PackingCheckGA2\main.cpp(32,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pieces' の左辺を無視します。
+C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\PackingCheckGA2\main.cpp(42,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'flame' の左辺を無視します。
+C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\PackingCheckGA2\main.cpp(48,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'individual' の左辺を無視します。
+C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\PackingCheckGA2\main.cpp(472,38): warning C4101: 'height': ローカル変数は 1 度も使われていません。
+C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\PackingCheckGA2\main.cpp(472,31): warning C4101: 'width': ローカル変数は 1 度も使われていません。
+  PackingCheckGA2.vcxproj -> C:\Users\ishikawa_2080\Desktop\1221\ProposedMethod\Debug\PackingCheckGA2.exe
